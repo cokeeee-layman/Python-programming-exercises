@@ -1,5 +1,5 @@
 100+ Python challenging programming exercises
-
+“这是啥啊，看不懂！！！！”
 1.	Level description
 Level	Description
 Level 1	Beginner means someone who has just gone through an introductory Python course. He can solve some problems with 1 or 2 Python classes or functions. Normally, the answers could directly be found in the textbooks.
